@@ -20,9 +20,9 @@
         <java.version>17</java.version>
 
         <!-- We will update these later when we create SonarCloud project -->
-        <sonar.organization>YOUR-SONAR-ORG</sonar.organization>
+        <sonar.organization>khalid-obaid</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.projectKey>YOUR-SONAR-PROJECT-KEY</sonar.projectKey>
+        <sonar.projectKey>Khalid-Obaid_student-grade-api</sonar.projectKey>
     </properties>
 
     <dependencies>
